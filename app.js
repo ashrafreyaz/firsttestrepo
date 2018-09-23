@@ -1,1 +1,1 @@
-new js file
+console.log("Hello world");
